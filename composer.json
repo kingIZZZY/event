@@ -31,10 +31,10 @@
     },
     "require": {
         "php": "^8.2",
-        "hyperf/event": "~3.2.0",
-        "hyperf/collection": "~3.2.0",
-        "hyperf/context": "~3.2.0",
-        "hyperf/stringable": "~3.2.0",
+        "hyperf/event": "dev-3.2",
+        "hyperf/collection": "dev-3.2",
+        "hyperf/context": "dev-3.2",
+        "hyperf/stringable": "dev-3.2",
         "hypervel/bus": "dev-main",
         "laravel/serializable-closure": "^1.3"
     },
